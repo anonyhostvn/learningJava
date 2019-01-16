@@ -1,4 +1,4 @@
-package learnSocketJava;
+package testSocket;
 
 import java.io.Serializable;
 
